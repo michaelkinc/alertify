@@ -1,0 +1,24 @@
+# Závislosti
+/node_modules
+/vendor
+
+# Build & kompilované soubory
+/public/css
+/public/mix-manifest.json
+
+# Lokální konfigurace
+.env
+.env.backup
+.phpunit.result.cache
+
+# Soubory editoru
+*.idea
+*.vscode
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Další ignorované soubory a složky
+composer.lock
+package-lock.json

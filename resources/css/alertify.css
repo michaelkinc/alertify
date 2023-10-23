@@ -1,0 +1,5 @@
+[x-cloak] { display: none !important; }
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
